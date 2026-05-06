@@ -5,7 +5,7 @@
   "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",
-    "test": "jest",
+    "test": "vitest",
     "build": "vite build"
   },
   "dependencies": {
